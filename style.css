@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC|Dosis:500);
+
+body {
+  margin: 60px 30px 20px 30px;
+  font-size: 16px;
+  font-family: Dosis, sans-serif;
+  background-color: black;
+}
+
+h2 {
+  font-family: Amatic SC, cursive;
+  font-size: 8em;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Amatic SC, cursive;
+  font-size: 3em;
+}
+
+h4 {
+  font-family: Amatic SC, cursive;
+  font-size: 1.5em;
+}
+
+li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+#gray {
+  color: #AAAAAA;
+}
