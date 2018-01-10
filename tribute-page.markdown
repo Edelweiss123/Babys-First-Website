@@ -1,4 +1,4 @@
-First website I ever built as a challenge for [freeCodeCamp](https://freecodecamp.org/challenges/build-a-tribute-page)
+Tribute Page
 ------------
 
 
